@@ -81,7 +81,7 @@ https://www.researchgate.net/publication/342493237_Brain_Graph_Super-Resolution_
 Our code is released under MIT License (see LICENSE file for details).
 
 # Contributing
-We always welcome contributions to help improve NAG-FS and evaluate our framework on other types of graph data. If you would like to contribute, please contact islemmhiri1993@gmail.com. Many thanks.
+We always welcome contributions to help improve BGSR and evaluate our framework on other types of graph data. If you would like to contribute, please contact islemmhiri1993@gmail.com. Many thanks.
 
 
 
