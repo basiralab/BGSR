@@ -42,12 +42,12 @@ The BGSR outputs are:
 
 To evaluate our framework, we used leave-one-out cross validation strategy.
 
-To try our code, you can use: BGSR_demo.m
+To test our code, you can run: BGSR_demo.m
 
 
 # Acknowledgement
 
-We used the following codes from others as follows:
+We used the following codes:
 
 SIMLR code from https://github.com/BatzoglouLabSU/SIMLR/tree/SIMLR/MATLAB. 
 
