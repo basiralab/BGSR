@@ -60,7 +60,7 @@ Similarity Network Fusion (SNF): Wang, B., Mezlini, A.M., Demir, F., Fiume, M., 
 
 Single‐cell Interpretation via Multi‐kernel LeaRning (SIMLR): Wang, B., Ramazzotti, D., De Sano, L., Zhu, J., Pierson, E., Batzoglou, S.: SIMLR: a tool for large-scale single-cell analysis by multi-kernel learning. [https://www.biorxiv.org/content/10.1101/052225v3] (2017) [https://github.com/bowang87/SIMLR_PY].
 
-# Please cite the following paper when using NAG-FS:
+# Please cite the following paper when using BGSR:
 
 @article{mhiri2020brain,
   title={Brain Graph Super-Resolution for Boosting Neurological Disorder Diagnosis using Unsupervised Multi-Topology Connectional Brain Template Learning},<br/>
