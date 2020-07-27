@@ -27,12 +27,14 @@ In this repo, we release the BGSR source code trained and tested on a simulated 
 We simulated random graph dataset from two Gaussian distributions using the function simulateData_LR_HR.m. The number of graphs in class 1, the number graphs in class 2, and the number of nodes (must be >20) are manually inputted by the user when starting the demo.
 
 To train and evaluate BGSR code on other datasets, you need to provide:
-• A tensor of size ((n-1) × m × m) stacking the symmetric matrices of the training subjects. n denotes the total number of subjects and m denotes the number of nodes.
-• A vector of size (n-1) stacking the training labels.
-• A matrix (n × (m × m)) stacking the source HR brain graph.
-• A uumber of most similar LR training subjects Kn.
+
+• A tensor of size ((n-1) × m × m) stacking the symmetric matrices of the training subjects. n denotes the total number of subjects and m denotes the number of nodes.<br/>
+• A vector of size (n-1) stacking the training labels.<br/>
+• A matrix (n × (m × m)) stacking the source HR brain graph.<br/>
+• A uumber of most similar LR training subjects Kn.<br/>
 
 The BGSR outputs are:
+
 • A vector of size (1 × (m × m)) vector stacking the predicted features of the testing subject.
 
 
