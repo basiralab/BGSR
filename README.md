@@ -31,7 +31,7 @@ To train and evaluate BGSR code on other datasets, you need to provide:
 • A tensor of size ((n-1) × m × m) stacking the symmetric matrices of the training subjects. n denotes the total number of subjects and m denotes the number of nodes.<br/>
 • A vector of size (n-1) stacking the training labels.<br/>
 • A matrix (n × (m × m)) stacking the source HR brain graph.<br/>
-• A uumber of most similar LR training subjects Kn.<br/>
+• Kn: the number of the most similar LR training subjects to the testing subject.<br/>
 
 The BGSR outputs are:
 
