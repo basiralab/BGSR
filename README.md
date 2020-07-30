@@ -62,7 +62,7 @@ Single‐cell Interpretation via Multi‐kernel LeaRning (SIMLR): Wang, B., Rama
 
 # Please cite the following paper when using BGSR:
 
-@article{mhiri2020brain,
+@article{mhiri2020brain,<br/>
   title={Brain Graph Super-Resolution for Boosting Neurological Disorder Diagnosis using Unsupervised Multi-Topology Connectional Brain Template Learning},<br/>
   author={Mhiri, Islem and Khalifa, Anouar Ben and Mahjoub, Mohamed Ali and Rekik, Islem},<br/>
   journal={Medical Image Analysis},<br/>
