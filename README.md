@@ -53,6 +53,7 @@ SIMLR code from https://github.com/BatzoglouLabSU/SIMLR/tree/SIMLR/MATLAB.
 
 SNF code from http://compbio.cs.toronto.edu/SNF/SNF/Software.html.
 
+Octave networks toolbox: https://github.com/aeolianine/octave-networks-toolbox
 
 # Related references
 
