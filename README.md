@@ -1,6 +1,6 @@
 # BGSR (Brain Graph Super-Resolution)
 
-BGSR (Brain Graph Super Resolution) for a fast and accurate graph data classification code, by Islem Mhiri. Please contact islemmhiri1993@gmail.com for inquiries. Thanks.
+BGSR (Brain Graph Super-Resolution) for super-resoloving low-resolution graphs code, by Islem Mhiri. Please contact islemmhiri1993@gmail.com for inquiries. Thanks.
 
 While a few image super-resolution techniques have been proposed for MRI super-resolution, graph super-resolution techniques are currently absent. To this aim, we design the ﬁrst brain graph super-resolution using functional brain data with the aim to boost neurological disorder diagnosis. Our framework learns how to generate high-resolution (HR) graphs from low-resolution (LR) graphs without resorting to the computationally expensive image processing pipelines for connectome construction at high-resolution scales.
 
